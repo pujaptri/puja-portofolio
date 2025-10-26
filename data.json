@@ -1,0 +1,20 @@
+{
+  "about": "Saya adalah mahasiswa yang tertarik pada bidang teknologi dan pengembangan web.",
+  "projects": [
+    {
+      "title": "Sistem Pendukung Keputusan Lomba Fotografi",
+      "description": "Website dengan metode TOPSIS untuk menentukan pemenang lomba."
+    },
+    {
+      "title": "Aplikasi Go Workout",
+      "description": "Aplikasi workout tracker berbasis web yang dikembangkan dalam mata kuliah manajemen proyek perangkat lunak."
+    }
+  ],
+  "socials": {
+    "whatsapp": "https://wa.me/62895411698596",
+    "gmail": "mailto:pjmptri@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/puja-putri-maisyaroh2002"
+  }
+}
+
+
